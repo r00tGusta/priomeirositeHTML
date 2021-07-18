@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(21, 32, 65);
+}
+
+header{
+    background-color:  rgb(21, 32, 65);
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 20px;
+
+}
+nav li {
+    display: inline;
+    vertical-align: top;
+    width: 20%;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration:none ;
+}
+.titulo1 {
+   font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
